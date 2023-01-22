@@ -1,0 +1,44 @@
+{
+  "trasections": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2023-01-05T21:01:28.906Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-01-05T21:30:15.906Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-01-05T21:45:15.906Z"
+    },
+    {
+      "description": "Desenvolvimento de site",
+      "category": "Venda",
+      "price": 2000,
+      "type": "income",
+      "createdAt": "2023-01-19T01:45:36.830Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-01-19T02:05:08.389Z",
+      "id": 5
+    }
+  ]
+}
